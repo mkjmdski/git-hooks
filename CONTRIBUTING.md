@@ -1,3 +1,9 @@
+# NOT MAINTAINED
+
+This is my local copy of non existing project [icefox/git-hooks](https://github.com/icefox/git-hooks). I do not know what happened to the original project but once I wanted to share it with somebody I have found it deleted. This project is currently looking for the maintainer.
+
+# README
+
 Thanks for contributing to `git-hooks`!
 
 # Writing good issues
